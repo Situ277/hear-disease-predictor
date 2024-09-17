@@ -1,1 +1,1 @@
-# hear-disease-predictor
+# heart-disease-predictor
